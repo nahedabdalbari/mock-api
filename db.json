@@ -1,0 +1,152 @@
+{
+    "house":[
+        {
+            "id":1,
+            "title": "lotus palace ",
+            "price": 800.000,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Amazing opportunity to own a fully renovated multi-family, four 1 Br/1 Bth units. The property is newly remodeled, impact windows, brand new splits A/C units, stainless steel appliances. Beautiful bay views from each unit. Large back yard with lush landscaping. Security cameras. Fully furnished and decorated. Operates as a short-term rental. Property is located in a trendy MiMo District, 9 min from Miami Beach, 10-12 min from Design District and Wynwood. Zoning allows for future expansion.",
+            "type":"hotel",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 5,
+            "web":"www.house.com",
+            "photo": "https://elagha.net/img19/20190706_23_5634_1.jpg"
+
+        },
+
+          {
+            "id":2,
+            "title": "Modern Capital House",
+            "price": 800.555,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"EXCELLENT OPPORTUNITY TO PURCHASE THIS MARVELOUS REHABBED HOME! FEATURES 4 BEDROOMS, LIVING ROOM, DINING ROOM, KITCHEN AND A FULLY FINISHED BASEMENT TO ENTERTAIN YOUR FAMILY GATHERINGS. HUGE YARD FOR THOSE SUMMER COOKOUTS. HIGHLY SOUGHT OUT AREA OF THE SOUTHEAST SIDE. WASHINGTON SCHOOLS JUST A SHORT WALK AWAY. COME TAKE A LOOK AT THIS BEAUTY BEFORE ITS GONE. ALL APPLIANCES STAY!!",
+            "type":"Apartment",
+            "status":"Sale",
+            "location":"Rafah",
+            "room": 5,
+            "web":"www.house.com",
+            "photo": "https://cdn.archidiaries.com/2022/11/Capital-House_img-5.jpg"
+          
+
+          
+          },
+
+
+          {
+            "id":3,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1"
+          
+          },
+
+
+          {
+            "id":4,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1"
+          
+      
+          },
+          {
+            "id":5,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://elagha.net/img19/20190706_23_5634_1.jpg"
+          
+          },
+          {
+            "id":6,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1"
+          
+      
+          },
+          {
+            "id":7,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1"
+          
+      
+          },
+          {
+            "id":8,
+            "title": "lotus palace ",
+            "price": 800.000,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Amazing opportunity to own a fully renovated multi-family, four 1 Br/1 Bth units. The property is newly remodeled, impact windows, brand new splits A/C units, stainless steel appliances. Beautiful bay views from each unit. Large back yard with lush landscaping. Security cameras. Fully furnished and decorated. Operates as a short-term rental. Property is located in a trendy MiMo District, 9 min from Miami Beach, 10-12 min from Design District and Wynwood. Zoning allows for future expansion.",
+            "type":"hotel",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 5,
+            "web":"www.house.com",
+            "photo": "https://elagha.net/img19/20190706_23_5634_1.jpg"
+          
+          },
+          {
+            "id":9,
+            "title": "villa",
+            "price": 20.0000,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Newly renovated 4 room condo featuring updated kitchen with new stainless-steel appliances, formal dining room, bedroom with wall full of closet space and modern full bathroom. The condo building has an elevator, is walking distance to the beach, park, public transportation right outside. Parking lease is available for $25/month. Building is investor friendly and can be rented. Low taxes of $200.91 without any exemptions.",
+            "type":"villa",
+            "status":"Sale",
+            "location":"Gaza",
+            "room": 4,
+            "web":"www.house.com",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1"
+          
+      
+          }
+
+
+    ]
+}
